@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons on behalf of the Apothecaries bill: humbly submitted to the consideration of this present Parliament. In answer to the city of London's petition against the said bill.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28804</idno><idno type="EEBO-CITATION">99885075</idno>
+  <idno type="VID">190169</idno>
+  <idno type="EEBO-PROQUEST">2248520889</idno>
+  
+            <idno type="STC">Wing R579A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[18]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 777.l.1.[12]</idno>
+            <idno type="STC">ESTC R220599</idno>
+            <idno type="PROQUEST">ocm99885075</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885075e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28804)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190169)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[18], E7:1[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons on behalf of the Apothecaries bill: humbly submitted to the consideration of this present Parliament. In answer to the city of London's petition against the said bill.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Ms. note at end of caption title: "bill read 19 Dec 1694"; reel E7:1[9] also has ms. note: "3 Jan. 1695".</note>
+                  <note>Imperfect: copy at reel C18:1[18] faded, with loss of text; copy at reel E7:1[9] folded with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pharmacists --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Pharmacy --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190169:1"/>
+            <head>REASONS On BEHALF of the APOTHECARIES BILL: Humbly Submitted to the Consideration of this present Parliament. <hi>In Answer to the City of</hi> London<hi>'s Petition against the said Bill.</hi>
+            </head>
+            <p>
+               <note place="margin">The Conside<g ref="char:EOLhyphen"/>rations that induced the Apotheca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies to move for an Exemption from Publick Offices.</note>
+               <seg rend="decorInit">T</seg>HE Apothecaries finding it very inconsistent, not only with their particular private Interest, but <hi>Dangerous</hi> to their respective Patients, <hi>in Person</hi> to serve those several Parish, Ward, and Leet Offices, and on Juries (to all which they are subject) in that they <hi>then</hi> could not so well attend either in their respective <hi>Shops</hi> for the making and duly preparing their Medicines, nor on their <hi>Patients</hi> whilst either the Doctor gave his Prescriptions, or the Circumstances of their Patients required it. They did therefore generally <hi>Fine</hi> to be exempted from such <hi>Perso<g ref="char:EOLhyphen"/>nal</hi> Services.</p>
+            <p>But perceiving that the <hi>Charge</hi> of such Exemptions was very Expensive, and knowing that the Profession of the <hi>Common</hi> and <hi>Civil</hi> Law (in <hi>All</hi> their <hi>Branches</hi>) were <hi>excused</hi> from such Services, and that the <hi>Physitians</hi> and <hi>Chirurgions</hi> were by particular <hi>Acts of Parliament discharged</hi> from the <hi>like;</hi> and believing (and hoping to prove) <hi>that the Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sons for the same Exemptions of Apothecaries were as great (if not <hi>greater</hi>) than for the Discharge of any of those,</hi> They did therefore (with all humble Submission) endeavour to procure a Bill for that purpose; the reasonableness whereof may appear from these following (amongst many other) Considerations.</p>
+            <p>
+               <note place="margin">Reasons for the Bill.</note>
+               <hi>First,</hi> The Apothecaries time is so very precarious, that they have no <hi>certain Vacation,</hi> no not in any Hours of the Night, (appointed by God and Nature for a general Rest) for being <hi>often</hi> called upon at <hi>all times,</hi> both Night and Day, either to prepare Medicines, according to the Doctors Prescriptions, or to attend on their Patients on some particular Distempers, and <hi>upon all</hi> occasions on the Poorest sort, who have scarce any Money for <hi>Food,</hi> and <hi>none</hi> for Physicians or Physick; for which reason it is not, with humble submission,</p>
+            <p>
+               <hi>Secondly, Consistent</hi> with the <hi>common Benefit</hi> of Mankind that the Apothecaries should in <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rson</hi> serve in either of the before O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fices or Du<g ref="char:EOLhyphen"/>ties; for <hi>whilst</hi> they attend such Services, their <hi>Personal</hi> Attendance, either in their <hi>Shops</hi> for the sudden preparing some <hi>particular</hi> Medicines, or <hi>on their Patients</hi> upon some <hi>certein Exigencies,</hi> or on the <hi>Poorest</hi> sort, upon <hi>all,</hi> may and <hi>often</hi> doth appear so very <hi>requisite,</hi> that the <hi>neglect</hi> thereof would be the <hi>Loss</hi> of the Patient.</p>
+            <p>
+               <hi>Thirdly,</hi> The <hi>Reason</hi> given by the 32. <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi> 8. <hi>cap.</hi> 40. for the exempting <hi>Physicians</hi> from those several Duties, holds (with due submission) in a <hi>greater</hi> degree good for the granting Apothecaries the same Immunities. — The preamble of that Statute in substance sets for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, <hi>That by the then Law, Physicians were Compelled to Serve in the before-mentioned Offices, by reason whereof, they could not give their Personal Attendance on the Nobility, Gentry, and Commonalty, in their respective sickness, as the exigencies of the Sick did necessarily require.</hi> — Now considering <hi>how often</hi> the Apothecary <hi>Attends</hi> the greatest in Quality when Sick, and <hi>all Ranks</hi> and Degrees of men in their respective Distempers, and to the <hi>Poorest</hi> he must either in Charity not only <hi>go,</hi> but <hi>give</hi> his Medicines, or they would Perish. It is supposed to need no proof that the Apothe<g ref="char:EOLhyphen"/>caries Attendance on the Sick <hi>(in <hi>All</hi> cases considered) takes up much <hi>more</hi> of his time, than the Physicians spend upon the like occasions.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Not only <hi>Lawyers,</hi> but all <hi>Attorneys and Clerks</hi> of Offices are <hi>excused</hi> by Common Law from serving in either of the before In<g ref="char:EOLhyphen"/>stances: And if it so happen that any Attorney or Clerk either is (or stands in danger of being) chosen to any of those Offices, the Court to which he belongs grants him a <hi>Writ of Privilege</hi> (directed to such whom it may concern) <hi>Commanding</hi> them that they <hi>excuse</hi> such Attorney or Clerk not only from that particular Office to which they endeavour to chuse him, but from all other Publick Offices; and that they chuse some other fit Person to those Employments. The Reason given in such Writs of Privilege, is to this effect; <hi>viz. That those Persons by the Duty of their Professions being obliged to attend that Court to which they belong, in the Prosecution or Defence of their respective Clients Causes, it would extremely tend to the common Prejudice of the King's Subjects, that those men should be called off from such their Prof<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssion, to those common Offices that any else can as well serve.</hi> Now the Preservation of Property, and the procuring Satisfaction for Damage sustained (for which the Lawyers Profession is instituted) cannot (in the nature of things considered) justly claim <hi>greater</hi> Privilege than this Bill would enact for <hi>such whose Em<g ref="char:EOLhyphen"/>ployments it is to remove Sicknesses and Pain (two Adversaries more dreaded by, and hurtful to Mankind, than any the Attorneys can defend us from).</hi> Of all Natural Evi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Pain and Sickness (next to Death) are esteemed the greatest; nay, sometimes in exchange for those this is desired. <hi>Health</hi> (of all Natural Blessings the most valuable) Mankind are daily <hi>preserved</hi> in, and <hi>recovered</hi> to, by Physical Prescriptions; and therefore a Profession instituted for those most <hi>Noble and Inestimable</hi> Purposes, may reasonably hope for all those proper Encouragements and reasonable Exemptions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> It is commonly objected by the Petitioners, That the Apothecaries may be excused from their Personal Services by their Fining (or procuring a Deputy); which Fines the Petitioners pretend are expended in the Relief of the Poor, or some other Publick Services.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> Were those Fines employed to the Purposes pretended, there then were greater Reasons for Fining, than now in truth there is: For in fact that which is here said to be laid out in those Charitable and Publick Services, is generally (in the greatest part thereof) spent upon the Rich [the <hi>V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stry-men</hi>]; who in Luxurious Treats defraud both Poor and Publick. But farther, It is humbly conceived, That</p>
+            <p>
+               <note place="margin">☞</note>
+               <hi>Wheresoever it is not consistent with the Interest of the Publick, that a Profession should</hi> (in PERSONAL SERVICES) <hi>be incumbred with those common Offices (most of which any man else may as well serve) There it is against all Equity, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the Profession should Fine.</hi>
+            </p>
+            <p>And this last Objection will appear the <hi>more unreasonable,</hi> if what is naturally implied therein, be plainly express'd <hi>(viz.)</hi>
+            </p>
+            <p>
+               <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it is fit this Prof<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sion should pay their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ines, that they may the better serve the Common Interest of Mankind.</hi> The last Objection holds as strong against Lawyers, Attorneys, Physicians, and Surgeons, all which are now exempted, for they may Fine off, or find a Deputy; but for the Considerations before-mentioned, neither is thought reasonable.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> The Petition pretends, That should this Bill pass into a Law, the City of <hi>London</hi> will be <hi>Greatly <hi>concerned</hi>
+               </hi> in the Consequences thereof.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> I must confess this Petition holds <hi>true</hi> in the <hi>Letter,</hi> but not in the Intention of the Petitioners; for the <hi>Health</hi> of those that are <hi>well</hi> (in the <hi>Prevention</hi> of Sickness) and the <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>covery</hi> of such as are <hi>Sick,</hi> are <hi>Greatly concern'd</hi> that this Bill should be enacted: But I am too short-sighted to foresee the least (comparative) Ill Consequences to the City by the passing this Bill. Had I not read the Bill, but was to judg the Prejudice, from <hi>this</hi> Petition, and the <hi>great</hi> Opposition that is thereby made, I could not guess less than 10000 <hi>l. per Annum</hi> would be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Loss this great and rich City would sustain by the passing this Bill. But when I reflect on the <hi>real Damage</hi> to be by the City sustained, if this Bill passes into an Act, I stand <hi>amaz'd</hi> at the Opposition. For there not being above 188 Apothecaries within the Precincts of <hi>London,</hi> (and so <hi>not two</hi> to a Parish, within the City Limits, there being 113 Parishes) the <hi>most</hi> this City would get by these mens Fining is not above a <hi>Hundred</hi> Pound <hi>per An. Communibus Annis;</hi> and consequently the Charge to the City would <hi>not exceed that Sum,</hi> if the desired Exemption was granted.</p>
+            <p>
+               <hi>And whether <hi>only</hi> the City <hi>Apothecaries</hi> should bear that Charge that they may the <hi>better</hi> serve the City in its Sickness, or the City in <hi>general</hi> who reap the Benefit of their Constant Services in their Prof<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssi n,</hi> must be Humbly submitted to the great Wisdom of this Honourable Parliament.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> The passing this Bill would be an ill President, and occasion other Professions and Trades to endeavour for the like Exemptions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> There is not the <hi>least shadow</hi> of Reason for any <hi>other</hi> Profession or Trade (by Law not already freed from those Duties) to be exempted from those Offices; for if it so happen that any of those in their Publick Attendance <hi>neglect</hi> their Trade, the Prejudice is <hi>only to their private particu<g ref="char:EOLhyphen"/>lar Interest;</hi> whereas by the Neglect of the Apothecaries in their Profession many of their Patients may perish.</p>
+            <p>It is a <hi>Rule</hi> in Law, and grounded on the <hi>Reason</hi> of things, <hi>That every thing ought to be respected according to its <hi>Worthiness. Life</hi>
+               </hi> and Li<g ref="char:EOLhyphen"/>berty <hi>above</hi> the <hi>Possessions</hi> of men: Wherefore the <hi>Common Law</hi> having given (as before observed) <hi>Large</hi> Exemptions to a certain Profession engaged in the Defence of <hi>Property,</hi> 'tis reasonably hop'd, That <hi>Statute-Law</hi> will in <hi>this</hi> Instance now grant (what for the <hi>like</hi> Cause in a <hi>less</hi> degree it hath formerly given) <hi>as great Privileges</hi> in order to the <hi>Preservation of <hi>Life.</hi>
+               </hi>
+            </p>
+            <p>There is a standing common Maxim in Law, <hi>Ʋbi est eadem ratio,</hi> &amp;c. <hi>Where there is the same Reason there ever is the same Law: Seeing therefore the Reason the Law gives for the Discharge of Physicians, Lawyers,</hi> &amp;c. (viz. <hi>The General Interest of the Publick) concludes</hi> (with due Submission) <hi>much stronger for the Exemptions by this Bill desired, It is humbly hop'd</hi> (notwithstanding the present Unreasonable Opposition) <hi>That the Bill under the present Consideration of this Honourable Parliament, may pass into a Law.</hi>
+            </p>
+            <div type="response">
+               <pb facs="tcp:190169:2"/>
+               <head>A MODEST REPLY to the CITY-REASONS against the <hi>APOTHECARIES</hi> BILL. <hi>Humbly Submitted to the Consideration of this present Parliament.</hi>
+               </head>
+               <p>FIRST, It is alledg'd against the Bill, That the <hi>Ground</hi> thereof is <hi>False;</hi> viz. <hi>That the Apothecaries serving Parish, Ward, and Leet Offices, takes up so much of their Time, that they cannot perform their Trust in their Trade, or attend their Patients according to their Duty.</hi>
+               </p>
+               <p>
+                  <hi>Answer,</hi> This Suggestion had been indeed <hi>False,</hi> could those several Offices have been executed <hi>without</hi> employing any time therein.</p>
+               <p>'Tis suggested, That the <hi>Duty</hi> of (and the only <hi>Trust</hi> reposed in) the <hi>Apothecaries,</hi> is to make and compound their Medicines, and <hi>then</hi> to carry or <hi>send</hi> them by their respective Servants (as other Tradesmen do).</p>
+               <p>
+                  <hi>Answer,</hi> It were for the <hi>Ease</hi> and <hi>Interest</hi> of the Apothecaries to wish, that their Attendance were never required, and that the Necessity of the Case did never <hi>dispense</hi> with their administring Physick without a Physician's Prescription: But it is so <hi>Notorious</hi> in <hi>Fact</hi> as it needs no Proof▪ That did not the Apothecaries in Charity <hi>Give</hi> to many both their <hi>Attendance</hi> and <hi>Physick,</hi> some Thousands <hi>would perish,</hi> seeing their unhappy <hi>Incapacity</hi> can pay for neither.</p>
+               <p>This is not alledg'd to plead for a <hi>Liberty</hi> of Practice, but only to <hi>expose</hi> the <hi>evident Falsity</hi> of the Suggestion: And it's presumed, <hi>scarce</hi> any that <hi>oppose</hi> this Bill would <hi>employ that Apoth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cary</hi> who should <hi>only send his Servants, refusing in Person to visit,</hi> whilst he was under a Physical Prescription.</p>
+               <p>
+                  <hi>Secondly,</hi> Whereas it is suggested, That <hi>most</hi> of the Offices in the Bill mentioned may be <hi>executed</hi> by Deputy:</p>
+               <p>
+                  <hi>Answer,</hi> This is <hi>equally Chargeable</hi> with Fining: <hi>And if the Personal Attendance of this Profession in those Offices is not consistent with the Common Interest, It's humbly submitted to the Great Wisdom of this Honourable House, Whether it's reasonable that the Professors should be thus charged; for that is in effect buying an Exemption for a General Good. <hi>Which (with all due Submission) it may be hop'd this Honourable Parliament will now</hi> Grant without Price.</hi> As for Judge <hi>Rolls</hi>'s serving an Office by Deputy, it was by the <hi>Recorder of London</hi> confess'd to be done <hi>Ex Gratia.</hi>
+               </p>
+               <p>It is suggested, That the Apothecaries are <hi>Ambitious</hi> of several Offices of <hi>Honour</hi> and <hi>Profit,</hi> in which as much of their Time is spent, as in those they would now be exempted from.</p>
+               <p>
+                  <hi>Answer,</hi> There are not above <hi>Eight</hi> Apothecaries Common-Council men; <hi>but One</hi> (at present) an Alderman's Deputy; <hi>but One</hi> in the Lieutenancy; <hi>not exceeding Two</hi> in Commission, in the City of <hi>London;</hi> neither of which was by them sought.</p>
+               <p>As for their spending some Time in Electing Lord-Mayor, <hi>&amp;c.</hi> those Elections are <hi>very seldom,</hi> and so but a <hi>small</hi> part of their Time therein spent: And being in them a <hi>voluntary</hi> Act, it's <hi>never done to the Neglect of their Patients.</hi> But it is quite otherwise in those Offices, which <hi>positively re<g ref="char:EOLhyphen"/>quire their Personal Service.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> 'tis Objected, That the Apothecaries have <hi>not</hi> the <hi>same Reasons for</hi> Exemptions as the <hi>Physitians,</hi> whose <hi>Personal Attendance</hi> is required, and they cannot act by <hi>Proxy.</hi>
+               </p>
+               <p>
+                  <hi>Answer,</hi> 'Tis confess'd that Physicians <hi>must</hi> Act in Person: And it is as <hi>manifest</hi> Truth that the Apothecaries <hi>doe,</hi> and (as before observed) in a <hi>thousand</hi> instances <hi>must,</hi> or the Patients <hi>must <hi>perish. And which of these two spend</hi> most <hi>time on their Patients</hi>
+                  </hi> (with humble Submission) <hi>most <hi>deserve an Exemption.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>Some of the Learned'st and Eminent'st Physicians <hi>knowing</hi> the grounds of this Bill to be <hi>true,</hi> have industriously promoted the Passing thereof; for which the Apothecaries think themselves in gratitude bound to make their publick acknowledgment.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> 'Tis asserted that the <hi>Fines</hi> for Offices by Act of Common-Council are <hi>forbid</hi> to be applied to <hi>Feasting,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answer,</hi> This very <hi>Prohibition</hi> proves the <hi>before</hi>-common Abuses of those Fines, and it can plainly be proved, that notwithstanding that Act (in the greatest part of them) they are still mis<g ref="char:EOLhyphen"/>spent in luxurious Treats.</p>
+               <p>
+                  <hi>Fifthly; As for the Ʋniversal Exemption of all Apothecaries throughout the Kingdom by those Reasons complained of.</hi>
+               </p>
+               <p>
+                  <hi>Answer,</hi> Upon <hi>first</hi> reading this Bill, the <hi>grounds thereof, and the ben<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fits thereby, were thought so reason<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ble and advantageous, that a worthy Member of the House Mov'd the Exemption might extend to <hi>all</hi> Parts of</hi> England. This motion was so <hi>well</hi> approv'd of, that the Bill was immediately alter'd to its now latitude.</p>
+               <p>
+                  <hi>Sixthly,</hi> 'Tis Objected, That the <hi>present</hi> Exemptions from Offices are already <hi>too many,</hi> and that <hi>such Immunities</hi> tend to the <hi>great Oppression of the Subject, especially the <hi>poorer</hi> sort.</hi>
+               </p>
+               <p>
+                  <hi>Answer,</hi> There are <hi>not</hi> above <hi>Three hundred thirty seven <hi>Apothecaries</hi>
+                  </hi> within the Bills of <hi>Mortality;</hi> and <hi>modestl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> speaking, there are <hi>One hundred thirty three thousand</hi> houses; so <hi>that there is <hi>but one</hi>
+                  </hi> Apothecary to <hi>Four hundred</hi> Families, and <hi>above <hi>Two thousand</hi>
+                  </hi> persons to an <hi>Apothecary</hi> within those Limits. <hi>And how very Oppressive the desired Exemption would prove to so many</hi> (which in the Charge of Fines would <hi>not</hi> come to above 100 <hi>l. per Ann. Communibus Annis</hi>) deserved the Consideration of the Objectors before they had made this groundless suggesti<g ref="char:EOLhyphen"/>on. And whereas these Gentlemen alledge that the <hi>Poorer</hi> sort will be <hi>most</hi> grieved by Passing this Bill: It's humbly conceived (for the Reasons before alledged) <hi>That those will receive th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>greatest</hi> Benefits by the Passing thereof.</hi>
+               </p>
+               <p>
+                  <hi>Now whether the Apothecary's Profession <hi>Only</hi> should be charged with this</hi> 100 l per <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Fines for their Exemption or the <hi>O<gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>
+                  </hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
